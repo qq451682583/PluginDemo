@@ -1,0 +1,1 @@
+com/android/plugin_model1/LastLogger.class:/Users/holy/Desktop/PluginDemo/app/src/main/java/com/android/plugindemo/LastLogger.class

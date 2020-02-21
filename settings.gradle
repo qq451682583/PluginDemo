@@ -1,0 +1,3 @@
+println '============== setting.gradle start ========'
+include ':app', ':plugin_model1', ':plugin_model2', ':grouter', ':grouter_annotaion', ':buildSrc'
+println '============== setting.gradle end ========'

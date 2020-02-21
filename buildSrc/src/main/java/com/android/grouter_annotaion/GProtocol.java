@@ -1,0 +1,19 @@
+package com.android.grouter_annotaion;
+
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+
+/**
+ * 用于标记协议
+ *
+ * @author holy
+ * @date 2019-09-15
+ */
+@Retention(RetentionPolicy.CLASS)
+@Target(ElementType.TYPE)
+public @interface GProtocol {
+
+    String value();
+}
